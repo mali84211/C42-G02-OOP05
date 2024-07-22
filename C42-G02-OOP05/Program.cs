@@ -51,17 +51,26 @@ namespace C42_G02_OOP05
 
             #endregion
 
-            #region
+            #region V4
+            //Employee employee = new Employee()
+            //{
+            //    Id = 10,
+            //    FullName = "mohamed ali",
+            //    Password = "Password",
+            //    Email="mali84211@gmai.com",
+            //    SecurityStamp=Guid.NewGuid(),
+            //};
+
+            //EmployeeViewMOdel employeeviewmodel =new EmployeeViewMOdel();
+            //employeeviewmodel = (EmployeeViewMOdel)employee;
+
+            //Console.WriteLine(employeeviewmodel.FirstName);
+            //Console.WriteLine(employeeviewmodel.LastName);
+
+            //object obj = new EmployeeViewMOdel();
+            //EmployeeViewMOdel E=(EmployeeViewMOdel) obj;
             #endregion
 
-            #region
-            #endregion
-
-            #region
-            #endregion
-
-            #region
-            #endregion
         }
     }
 }
