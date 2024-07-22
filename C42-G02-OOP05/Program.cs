@@ -37,6 +37,17 @@ namespace C42_G02_OOP05
             #endregion
 
             #region V3
+            //object obj = 2;
+            //int x =(int) obj;
+
+            //Complex C1= new Complex() {Real=2,Imag=4};
+            //String S1 = C1;
+            //S1 = (String)C1;
+            //Console.WriteLine(S1);
+            //int y =(int) C1;
+
+            //Console.WriteLine(C1);
+            //Console.WriteLine(y);
 
             #endregion
 
