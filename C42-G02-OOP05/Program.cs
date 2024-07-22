@@ -1,4 +1,6 @@
-﻿namespace C42_G02_OOP05
+﻿using System.Security.Cryptography;
+
+namespace C42_G02_OOP05
 {
     internal class Program
     {
@@ -25,10 +27,17 @@
             #endregion
 
             #region V2
+            //Complex C3 = default;
+            //C3 = ++C1;
+            //C3 = C1++;
+            //C3 = C1--;
 
+            //Console.WriteLine(C3);
+            //Console.WriteLine(C1);
             #endregion
 
-            #region
+            #region V3
+
             #endregion
 
             #region

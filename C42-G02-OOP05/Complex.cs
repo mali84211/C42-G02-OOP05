@@ -30,5 +30,12 @@ namespace C42_G02_OOP05
                 Imag = (Left?.Imag??0) + (Right?.Imag??0)
             };
         }
+        public static Complex operator ++(Complex C) {
+            return new Complex()
+            {
+                Real = (C?.Real??0)+1,
+                Imag = (C?.Imag??0)+1
+            };
+        }
     }
 }
